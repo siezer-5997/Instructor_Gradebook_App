@@ -1,0 +1,20 @@
+{
+    "programming_assignment": {
+        "count": 2,
+        "weights": {
+            "1": 20.0,
+            "2": 20.0
+        }
+    },
+    "test": {
+        "count": 2,
+        "weights": {
+            "1": 20.0,
+            "2": 20.0
+        }
+    },
+    "final_exam": {
+        "count": 1,
+        "weight": 20.0
+    }
+}

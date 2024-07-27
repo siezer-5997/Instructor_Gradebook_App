@@ -1,0 +1,24 @@
+[
+    [
+        1221,
+        "taylor",
+        "james",
+        {
+            "programming_assignment 1": 20.0,
+            "final_score": 95.0,
+            "final_exam 1": 18.0,
+            "programming_assignment 2": 19.0
+        }
+    ],
+    [
+        1552,
+        "Jacob",
+        "Cole",
+        {
+            "programming_assignment 1": 20.0,
+            "final_score": 83.33,
+            "final_exam 1": 20.0,
+            "programming_assignment 2": 10.0
+        }
+    ]
+]
