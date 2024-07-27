@@ -1,6 +1,16 @@
 # GradeBookApp
 
 GradeBookApp is a comprehensive grade management system that allows educators to set up new semesters, add students, record grades, and calculate final scores. This application provides a user-friendly interface to manage grading policies, student records, and grade calculations efficiently.
+- Designed an OOP-based system where instructors can set up courses, record and change student scores, calculate final grades, and display them.
+- Enhanced administrative efficiency and accuracy in managing student performance data. 
+
+![alt text](image.png)
+
+## Files Included for the Project
+- Python files of the gradebook program
+- UML design diagram
+- Use Case diagram
+- Comprehensive Test Cases
 
 ## Features
 
